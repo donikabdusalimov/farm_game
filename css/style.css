@@ -1,0 +1,137 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #FDFCEF;
+}
+
+.header {
+    padding-top: 60px;
+    padding-left: 430px;
+}
+
+.h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.p1 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.btn {
+    width: 227px;
+    height: 69px;
+    background-color: #FF6861;
+    border-radius: 100px;
+    border: 0;
+    cursor: pointer;
+}
+
+.src {
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+
+.cont {
+    display: flex;
+    align-items: center;
+    gap: 180px;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.element {
+    display: flex;
+    gap: 34px;
+    align-items: center;
+}
+
+.glav {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.p2 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+}
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    gap: 72px;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.glav_text1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.btn2 {
+    width: 227px;
+    height: 69px;
+    background-color: #FF6861;
+    border-radius: 100px;
+    border: 0;
+    cursor: pointer;
+}
+
+.big_box {
+    display: flex;
+    align-items: center;
+    width: 1110px;
+    height: 486px;
+    background: linear-gradient(102deg, #FFF6DF 17.38%, #FFDFDE 81.25%);
+    border-radius: 60px;
+    justify-content: center;
+    gap: 101px;
+}
+
+.p3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.glav_text2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.section3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.p4 {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
